@@ -17,14 +17,14 @@ Hello, my name is Luiz Otavio, I am a student of the Serratec residency program,
 
  <div align="center">  
  <a href="https://github.com/luizitosuares">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizitosuares&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Santiago github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizitosuares&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Luiz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitosuares&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 
  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
  </div>
  
