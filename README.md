@@ -29,6 +29,6 @@ Hello, my name is Luiz Otavio, I am a student of the Serratec residency program,
  </div>
  
  
- ![Snake animation ](https://github.com/S4nt1ag/S4nt1ag/blob/output/dark.svg)
+ ![Snake animation ](https://github.com/luizitosuares/luizitosuares/blob/output/dark.svg)
  
  ##
