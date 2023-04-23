@@ -11,7 +11,12 @@ Luiz Otavio | 💻 Full Stack Developer | 🇧🇷
 
 Hello, my name is Luiz Otavio, I am a student of the Serratec residency program, my focus is on data analysis and mobile development, but I am currently studying Full stack
 
-</div>
+  [![Typing Gift]( https://gifs.com/gif/gravity-falls-gnomo-vomitando-arco-ris-KkekYq)]
+   
+   
+   
+   
+   </div>
  
   
 
