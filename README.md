@@ -5,7 +5,7 @@
    
 
 <div align="center">
-Luiz Otavio | 💻 Full Stack Developer | 🇧🇷 
+Luiz Otavio | 💻  Full Stack Developer  | 🇧🇷 
 
 
 
