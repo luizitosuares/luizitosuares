@@ -21,7 +21,7 @@ Hello, my name is Luiz Otavio, I am a student of the Serratec residency program,
   
 
  <div align="center">  
- <a href="https://github.com/luizitosuares"> /user/repo@version/file.jshttps://cdn.jsdelivr.net/gh/devicons
+ <a href="https://github.com/luizitosuares"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizitosuares&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Luiz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitosuares&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
