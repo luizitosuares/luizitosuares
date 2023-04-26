@@ -21,7 +21,7 @@ Hello, my name is Luiz Otavio, I am a student of the Serratec residency program,
   
 
  <div align="center">  
- <a href="https://github.com/luizitosuares">
+ <a href="https://github.com/luizitosuares"> /user/repo@version/file.jshttps://cdn.jsdelivr.net/gh/devicons
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizitosuares&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Luiz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizitosuares&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
@@ -31,7 +31,7 @@ Hello, my name is Luiz Otavio, I am a student of the Serratec residency program,
     <img align="center" alt="Java" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="Kotlin" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
-        
+     <img align="center" alt="Html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />     
           
     
     
